@@ -42,7 +42,7 @@ onMounted(() => {
 .pixel-dog {
     position: fixed;
     z-index: 9999;
-    width: 50px;
+    width: 100px;
     /* Ajuste o tamanho conforme sua imagem */
     height: auto;
     transition: transform 0.1s ease;
