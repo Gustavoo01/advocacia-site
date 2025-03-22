@@ -1,1 +1,0 @@
-{"root":["./src/env.d.ts","./src/main.ts","./src/vite-env.d.ts","./src/app.vue","./src/components/about.vue","./src/components/contact.vue","./src/components/footer.vue","./src/components/header.vue","./src/components/hero.vue","./src/components/services.vue","./src/components/testimonials.vue","./src/components/ui/floatingbutton.vue"],"version":"5.8.2"}
