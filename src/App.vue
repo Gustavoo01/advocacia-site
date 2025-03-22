@@ -6,6 +6,7 @@ import Header from './components/Header.vue';
 import Hero from './components/Hero.vue';
 import Services from './components/Services.vue';
 import FloatingButton from './components/ui/FloatingButton.vue';
+import PixelDog from './components/ui/PixelDog.vue';
 
 const handleButtonClick = () => {
   window.open('https://wa.me/44999046190', '_blank');
@@ -21,6 +22,7 @@ const handleButtonClick = () => {
     <Contact />
     <Footer />
     <FloatingButton @click="handleButtonClick" />
+    <PixelDog />
   </div>
 </template>
 
