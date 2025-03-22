@@ -43,7 +43,7 @@ const scrollToSection = (sectionId) => {
             <!-- Informações do advogado (desktop) -->
             <div class="hidden md:block text-right leading-tight">
                 <div class="font-medium text-base text-white">Dr. Valter Aparecido de Souza</div>
-                <div class="text-xs text-gray-400">Advogado - OAB/PR N 12345</div>
+                <div class="text-xs text-gray-400">Advogado - OAB/PR N 69517</div>
                 <div class="text-xs text-gray-400">Assessoria e consultoria</div>
             </div>
         </div>

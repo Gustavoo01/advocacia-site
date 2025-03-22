@@ -1,5 +1,5 @@
 <script setup>
-import { Briefcase, FileText, Home, Scale, Shield, Users } from 'lucide-vue-next';
+import { Baby, Briefcase, CircleDollarSign, Scale, TreePine, Users, Vote } from 'lucide-vue-next';
 import { onMounted, ref } from 'vue';
 
 const services = ref([
@@ -14,7 +14,7 @@ const services = ref([
     image: '/advocacia-site/images/direito-civil.jpg'
   },
   {
-    icon: FileText,
+    icon: Baby,
     title: 'Direito da Família',
     image: '/advocacia-site/images/direito-familia.jpg'
   },
@@ -24,14 +24,19 @@ const services = ref([
     image: '/advocacia-site/images/direito-sucessoes.jpg'
   },
   {
-    icon: Home,
+    icon: Vote,
     title: 'Direito Eleitoral',
     image: '/advocacia-site/images/direito-eleitoral.jpg'
   },
   {
-    icon: Shield,
+    icon: TreePine,
     title: 'Direito Ambiental',
     image: '/advocacia-site/images/direito-ambiental.jpg'
+  },
+  {
+    icon: CircleDollarSign,
+    title: 'Direito Tributário',
+    image: '/advocacia-site/images/direito-tributario.png'
   }
 ]);
 

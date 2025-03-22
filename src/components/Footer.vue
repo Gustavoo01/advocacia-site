@@ -26,16 +26,16 @@ import { Mail, MapPin, Phone } from 'lucide-vue-next';
                         </li>
                         <li class="flex items-center ">
                             <Phone class="icon mr-3" />
-                            <span>(44) 99999-9999</span>
+                            <span>(44) 9 8413-3624</span>
                         </li>
                         <li class="flex items-center">
                             <Mail class="icon mr-3" />
                             <span>advocaciavirtual@hotmail.com</span>
                         </li>
-                        <li class="flex items-center">
+                        <!-- <li class="flex items-center">
                             <Mail class="icon mr-3" />
                             <span>advocaciavirtual8@gmail.com</span>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
 
