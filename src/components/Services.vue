@@ -6,32 +6,32 @@ const services = ref([
   {
     icon: Scale,
     title: 'Direito Previdenciário',
-    image: '/advocacia-site/src/assets/images/direito-previdenciario.jpg'
+    image: '/advocacia-site/images/direito-previdenciario.jpg'
   },
   {
     icon: Briefcase,
     title: 'Direito Civil',
-    image: '/advocacia-site/src/assets/images/direito-civil.jpg'
+    image: '/advocacia-site/images/direito-civil.jpg'
   },
   {
     icon: FileText,
     title: 'Direito da Família',
-    image: '/advocacia-site/src/assets/images/direito-familia.jpg'
+    image: '/advocacia-site/images/direito-familia.jpg'
   },
   {
     icon: Users,
     title: 'Direito das Sucessões',
-    image: '/advocacia-site/src/assets/images/direito-sucessoes.jpg'
+    image: '/advocacia-site/images/direito-sucessoes.jpg'
   },
   {
     icon: Home,
     title: 'Direito Eleitoral',
-    image: '/advocacia-site/src/assets/images/direito-eleitoral.jpg'
+    image: '/advocacia-site/images/direito-eleitoral.jpg'
   },
   {
     icon: Shield,
     title: 'Direito Ambiental',
-    image: '/advocacia-site/src/assets/images/direito-ambiental.jpg'
+    image: '/advocacia-site/images/direito-ambiental.jpg'
   }
 ]);
 

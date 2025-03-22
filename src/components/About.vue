@@ -66,7 +66,7 @@ const attorney = ref({
   name: 'Dr. Valter Aparecido de Souza',
   specialty: 'Advogado',
   bio: 'Resumo Descrição',
-  image: '/advocacia-site/src/assets/images/image.jpg',
+  image: '/advocacia-site/images/image.jpg',
 });
 </script>
 
