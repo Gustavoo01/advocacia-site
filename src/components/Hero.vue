@@ -2,9 +2,9 @@
 <template>
   <section id="inicio" class="hero-section text-white relative overflow-hidden">
     <div class="background-slideshow">
-      <div class="slide" style="background-image: url('/images/hero-bg-1.jpg');"></div>
-      <div class="slide" style="background-image: url('/images/hero-bg-2.jpg');"></div>
-      <div class="slide" style="background-image: url('/images/hero-bg-3.jpg');"></div>
+      <div class="slide" style="background-image: url('/advocacia-site/images/hero-bg-1.jpg');"></div>
+      <div class="slide" style="background-image: url('/advocacia-site/images/hero-bg-2.jpg');"></div>
+      <div class="slide" style="background-image: url('/advocacia-site/images/hero-bg-3.jpg');"></div>
     </div>
     <div
       class="container mx-auto px-4 flex flex-col items-center justify-center text-center relative z-10 min-h-screen">

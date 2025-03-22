@@ -1,4 +1,3 @@
-<!-- src/App.vue -->
 <script setup>
 import About from './components/About.vue';
 import Contact from './components/Contact.vue';
@@ -9,7 +8,7 @@ import Services from './components/Services.vue';
 import FloatingButton from './components/ui/FloatingButton.vue';
 
 const handleButtonClick = () => {
-  window.open('https://wa.me/SEU_NUMERO', '_blank');
+  window.open('https://wa.me/44999046190', '_blank');
 };
 </script>
 

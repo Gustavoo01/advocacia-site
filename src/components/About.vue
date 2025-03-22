@@ -21,7 +21,7 @@
           <!-- Imagem retangular -->
           <div
             class="relative w-72 h-96 md:w-80 md:h-[28rem] rounded-lg overflow-hidden transform transition-all duration-500 group-hover:scale-105 group-hover:shadow-xl shadow-yellow-500/10">
-            <img :src="attorney.image" alt="Dr. Carlos Mendes"
+            <img :src="attorney.image" alt="Dr. Valter Aparecido de Souza"
               class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
             <!-- Overlay sutil -->
             <div class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
@@ -66,7 +66,7 @@ const attorney = ref({
   name: 'Dr. Valter Aparecido de Souza',
   specialty: 'Advogado',
   bio: 'Resumo Descrição',
-  image: '/src/assets/images/image.jpg',
+  image: '/advocacia-site/src/assets/images/image.jpg',
 });
 </script>
 
@@ -85,6 +85,7 @@ const attorney = ref({
 /* Animações */
 .animate-fade-in-down {
   animation: fadeInDown 1s ease-out forwards;
+
 }
 
 .animate-fade-in-up {
