@@ -65,7 +65,7 @@ import { ref } from 'vue';
 const attorney = ref({
   name: 'Dr. Valter Aparecido de Souza',
   specialty: 'Advogado',
-  bio: 'Dr. Valter é um advogado experiente, especializado em Direito de Família, Previdenciário, Civil, Sucessões, Eleitoral, Ambiental e Tributário. Atua com dedicação em divórcios, guarda de filhos, pensões e partilha de bens, além de processos previdenciários como aposentadoria e benefícios. No campo civil, presta suporte em contratos, cobranças e responsabilidade civil. Também oferece consultoria em sucessões, direito eleitoral e ambiental, além de planejamento e defesa tributária. Com ética e comprometimento, busca sempre as melhores soluções para seus clientes.',
+  bio: 'Dr. Valter é um advogado experiente, com mais de 10 anos de atuação, graduado em Direito, pós-graduado em Filosofia, Pós-graduado em Licitações e Contratos, atuantes nas áreas Direito Tributário, Previdenciário, Eleitoral, Ambiental e Cível.  Também oferece Consultoria e Assessoria nas mais diversas áreas e ramos do Direito. Com ética e comprometimento, busca sempre as melhores soluções para seus clientes. ',
   image: '/advocacia-site/images/image.jpg',
 });
 </script>
