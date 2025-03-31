@@ -4,9 +4,9 @@ import { onMounted, ref } from 'vue';
 
 const services = ref([
   {
-    icon: Scale,
-    title: 'Direito Previdenciário',
-    image: '/advocacia-site/images/direito-previdenciario.jpg'
+    icon: CircleDollarSign,
+    title: 'Direito Tributário',
+    image: '/advocacia-site/images/direito-tributario.png'
   },
   {
     icon: Briefcase,
@@ -14,9 +14,9 @@ const services = ref([
     image: '/advocacia-site/images/direito-civil.jpg'
   },
   {
-    icon: Baby,
-    title: 'Direito da Família',
-    image: '/advocacia-site/images/direito-familia.jpg'
+    icon: Scale,
+    title: 'Direito Previdenciário',
+    image: '/advocacia-site/images/direito-previdenciario.jpg'
   },
   {
     icon: Users,
@@ -29,15 +29,15 @@ const services = ref([
     image: '/advocacia-site/images/direito-eleitoral.jpg'
   },
   {
+    icon: Baby,
+    title: 'Direito da Família',
+    image: '/advocacia-site/images/direito-familia.jpg'
+  },
+  {
     icon: TreePine,
     title: 'Direito Ambiental',
     image: '/advocacia-site/images/direito-ambiental.jpg'
   },
-  {
-    icon: CircleDollarSign,
-    title: 'Direito Tributário',
-    image: '/advocacia-site/images/direito-tributario.png'
-  }
 ]);
 
 const carouselTrack = ref(null);
